@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "SEMINAR CYBERSECURITY ITERA",
+    "kategori": "Seminar",
+    "Tanggal": "14 Oktober 2026",
+    "Lokasi": "Aula GKU 1 ITERA",
+    "Penyelenggara": "Komunitas RAVEN"
+  },
+  {
+    "id": "2",
+    "judul": "STUDIUM GENERALE: BEYOND THE DEGREE",
+    "kategori": "Studium Generale",
+    "Tanggal": "6 Oktober 2026",
+    "Lokasi": "Gedung Kuliah Umum 1 ITERA",
+    "Penyelenggara": "Program Studi Teknik Informatika"
+  }, 
+  {
+    "id": "3",
+    "judul": "Pesta Puncak Dies Natalis ITERA ke-12",
+    "kategori": "Dies Natalis",
+    "Tanggal": "10 Oktober 2026",
+    "Lokasi": "Pelataran Gedung A",
+    "Penyelenggara": "Civitas Akademika ITERA"
+  },
+  {
+    "id": "4",
+    "judul": "Dies Natalis Tera Esports ke-2",
+    "kategori": "Dies Natalis",
+    "Tanggal": "29 November 2025",
+    "Lokasi": "Aula Gedung F Institut Teknologi Sumatera",
+    "Penyelenggara": "Tera Esports"
+  },
+  {
+    "id": "5",
+    "judul": "Parade Riuh Wisuda Terpusat 2026",
+    "kategori": "Parade",
+    "Tanggal": "25 Juli 2026",
+    "Lokasi": "Institut Teknologi Sumatera",
+    "Penyelenggara": "Massa Laskar Hijau"
+  },
+  {
+    "id": "6",
+    "judul": "SIDANG TERBUKA INSTITUT TEKNOLOGI SUMATERA",
+    "kategori": "Sidang Terbuka",
+    "Tanggal": "25 April 2026",
+    "Lokasi": "Pelataran Laboratorium OZT ITERA",
+    "Penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
+  },
+  {
+    "id": "7",
+    "judul": "Festival HUT RI ke-79",
+    "kategori": "Festival",
+    "Tanggal": "16 Agustus 2026",
+    "Lokasi": "di Area Embung C",
+    "Penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
+  },
+  {
+    "id": "8",
+    "judul": "Aksi Bersih Lingkungan Kampus ITERA",
+    "kategori": "Aksi Sosial",
+    "Tanggal": "10 September 2026",
+    "Lokasi": "Kampus ITERA",
+    "Penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
+  },
+  {
+    "id": "9",
+    "judul": "Pentas Teater Mahasiswa ITERA",
+    "kategori": "Seni",
+    "Tanggal": "20 Oktober 2026",
+    "Lokasi": "Aula Gedung F Institut Teknologi Sumatera",
+    "Penyelenggara": "Mimbar Seni Mahasiswa ITERA"
+  },
+  {
+    "id": "10",
+    "judul": "Workshop Pemrograman Python",
+    "kategori": "Workshop",
+    "Tanggal": "15 November 2026",
+    "Lokasi": "Laboratorium Komputer ITERA",
+    "Penyelenggara": "Himpunan Mahasiswa Teknik Informatika"
   }
 ]

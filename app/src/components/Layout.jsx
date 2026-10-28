@@ -1,26 +1,13 @@
-import { NavLink, Outlet } from 'react-router-dom'
+import { Outlet } from 'react-router-dom'
 import './Layout.css'
-
-const MENU = [
-  { ke: '/', label: 'Beranda' },
-  { ke: '/koleksi', label: 'Koleksi' },
-  { ke: '/tambah', label: 'Tambah' },
-  { ke: '/statistik', label: 'Statistik' },
-  { ke: '/tentang', label: 'Tentang' },
-]
+import Navigasi from './Navigasi.jsx'
 
 export default function Layout() {
   return (
     <div className="kerangka">
       <header className="kepala">
-        <strong>Daftar Tugas</strong>
-        <nav className="menu">
-          {MENU.map(({ ke, label }) => (
-            <NavLink key={ke} to={ke} end={ke === '/'}>
-              {label}
-            </NavLink>
-          ))}
-        </nav>
+        <strong>Agenda Kegiatan Kampus</strong>
+        <Navigasi />
       </header>
       <main className="isi">
         <Outlet />

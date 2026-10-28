@@ -12,7 +12,7 @@ export default function Layout() {
       <main className="isi">
         <Outlet />
       </main>
-      <footer className="kaki">Ujian Tengah Semester Pengembangan Aplikasi Web</footer>
+      <footer id = "kaki" className="kaki">Ujian Tengah Semester Pengembangan Aplikasi Web</footer>
     </div>
   )
 }

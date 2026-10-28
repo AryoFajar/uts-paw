@@ -3,7 +3,7 @@ export default function PesanKosong({
 
 }) {
     return (
-        <div role="status" >
+        <div id="status" role="status" >
             <p>{pesan}</p> 
         </div>
     )

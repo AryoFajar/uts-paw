@@ -10,7 +10,7 @@
   {
     "id": "2",
     "judul": "studium generale: beyond the degree",
-    "kategori": "studium generale",
+    "kategori": "seminar",
     "tanggal": "6 oktober 2026",
     "lokasi": "aula gedung kuliah umum 1 itera",
     "penyelenggara": "program studi teknik informatika itera"
@@ -42,17 +42,17 @@
   {
     "id": "6",
     "judul": "sidang terbuka institut teknologi sumatera",
-    "kategori": "sidang terbuka",
+    "kategori": "sidang",
     "tanggal": "25 april 2026",
-    "lokasi": "pelataran laboratorium ozt itera",
+    "lokasi": "kampus ITERA",
     "penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
   },
   {
     "id": "7",
-    "judul": "festival hut ri ke-79",
-    "kategori": "festival",
+    "judul": "parade hut ri ke-79",
+    "kategori": "parade",
     "tanggal": "16 agustus 2026",
-    "lokasi": "di area embung c",
+    "lokasi": "kampus ITERA",
     "penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
   },
   {
@@ -65,18 +65,18 @@
   },
   {
     "id": "9",
-    "judul": "pentas teater mahasiswa ITERA",
-    "kategori": "seni",
+    "judul": "Kebersihan Lingkungan Gedung Kuliah Umum 1 ITERA",
+    "kategori": "aksi sosial",
     "tanggal": "20 oktober 2026",
-    "lokasi": "aula gedung f institut teknologi sumatera",
-    "penyelenggara": "mimbar seni mahasiswa ITERA"
+    "lokasi": "gedung kuliah umum 1 itera",
+    "penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
   },
   {
     "id": "10",
     "judul": "workshop pemrograman python",
-    "kategori": "workshop",
+    "kategori": "seminar",
     "tanggal": "15 november 2026",
-    "lokasi": "laboratorium komputer ITERA",
+    "lokasi": "aula gedung kuliah umum 2 itera",
     "penyelenggara": "mahasiswa program studi teknik informatika"
   }
 ]

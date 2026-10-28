@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "judul": "SEMINAR CYBERSECURITY ITERA",
+    "judul": "Seminar Keamanan Siber dan Etika Digital",
     "kategori": "Seminar",
     "Tanggal": "14 Oktober 2026",
     "Lokasi": "Aula GKU 1 ITERA",
-    "Penyelenggara": "Komunitas RAVEN"
+    "Penyelenggara": "Komunitas Raven"
   },
   {
     "id": "2",
@@ -21,7 +21,7 @@
     "kategori": "Dies Natalis",
     "Tanggal": "10 Oktober 2026",
     "Lokasi": "Pelataran Gedung A",
-    "Penyelenggara": "Civitas Akademika ITERA"
+    "Penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
   },
   {
     "id": "4",

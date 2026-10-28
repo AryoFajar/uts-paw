@@ -1,82 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Seminar Keamanan Siber dan Etika Digital",
-    "kategori": "Seminar",
-    "Tanggal": "14 Oktober 2026",
-    "Lokasi": "Aula GKU 1 ITERA",
-    "Penyelenggara": "Komunitas Raven"
+    "judul": "seminar keamanan siber dan etika digital",
+    "kategori": "seminar",
+    "Tanggal": "14 oktober 2026",
+    "Lokasi": "aula gedung kuliah umum 1 itera",
+    "Penyelenggara": "komunitas raven"
   },
   {
     "id": "2",
-    "judul": "STUDIUM GENERALE: BEYOND THE DEGREE",
-    "kategori": "Studium Generale",
-    "Tanggal": "6 Oktober 2026",
-    "Lokasi": "Gedung Kuliah Umum 1 ITERA",
-    "Penyelenggara": "Program Studi Teknik Informatika"
+    "judul": "studiium generale: beyond the degree",
+    "kategori": "studiium generale",
+    "Tanggal": "6 oktober 2026",
+    "Lokasi": "aula gedung kuliah umum 1 itera",
+    "Penyelenggara": "program studi teknik informatika itera"
   }, 
   {
     "id": "3",
-    "judul": "Pesta Puncak Dies Natalis ITERA ke-12",
-    "kategori": "Dies Natalis",
-    "Tanggal": "10 Oktober 2026",
-    "Lokasi": "Pelataran Gedung A",
+    "judul": "pesta puncak dies natalis itera ke-12",
+    "kategori": "dies natalis",
+    "Tanggal": "10 oktober 2026",
+    "Lokasi": "pelataran gedung a institut teknologi sumatera",
     "Penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
   },
   {
     "id": "4",
-    "judul": "Dies Natalis Tera Esports ke-2",
-    "kategori": "Dies Natalis",
-    "Tanggal": "29 November 2025",
-    "Lokasi": "Aula Gedung F Institut Teknologi Sumatera",
-    "Penyelenggara": "Tera Esports"
+    "judul": "dies natalis tera esports ke-2",
+    "kategori": "dies natalis",
+    "Tanggal": "29 november 2025",
+    "Lokasi": "aula gedung f institut teknologi sumatera",
+    "Penyelenggara": "tera esports"
   },
   {
     "id": "5",
-    "judul": "Parade Riuh Wisuda Terpusat 2026",
-    "kategori": "Parade",
-    "Tanggal": "25 Juli 2026",
-    "Lokasi": "Institut Teknologi Sumatera",
-    "Penyelenggara": "Massa Laskar Hijau"
+    "judul": "parade riuh wisuda terpusat 2026",
+    "kategori": "parade",
+    "Tanggal": "25 juli 2026",
+    "Lokasi": "institut teknologi sumatera",
+    "Penyelenggara": "massa laskar hijau"
   },
   {
     "id": "6",
-    "judul": "SIDANG TERBUKA INSTITUT TEKNOLOGI SUMATERA",
-    "kategori": "Sidang Terbuka",
-    "Tanggal": "25 April 2026",
-    "Lokasi": "Pelataran Laboratorium OZT ITERA",
+    "judul": "sidang terbuka institut teknologi sumatera",
+    "kategori": "sidang terbuka",
+    "Tanggal": "25 april 2026",
+    "Lokasi": "pelataran laboratorium ozt itera",
     "Penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
   },
   {
     "id": "7",
-    "judul": "Festival HUT RI ke-79",
-    "kategori": "Festival",
-    "Tanggal": "16 Agustus 2026",
-    "Lokasi": "di Area Embung C",
+    "judul": "festival hut ri ke-79",
+    "kategori": "festival",
+    "Tanggal": "16 agustus 2026",
+    "Lokasi": "di area embung c",
     "Penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
   },
   {
     "id": "8",
-    "judul": "Aksi Bersih Lingkungan Kampus ITERA",
-    "kategori": "Aksi Sosial",
-    "Tanggal": "10 September 2026",
-    "Lokasi": "Kampus ITERA",
+    "judul": "aksi bersih lingkungan kampus ITERA",
+    "kategori": "aksi sosial",
+    "Tanggal": "10 september 2026",
+    "Lokasi": "kampus ITERA",
     "Penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
   },
   {
     "id": "9",
-    "judul": "Pentas Teater Mahasiswa ITERA",
-    "kategori": "Seni",
-    "Tanggal": "20 Oktober 2026",
-    "Lokasi": "Aula Gedung F Institut Teknologi Sumatera",
-    "Penyelenggara": "Mimbar Seni Mahasiswa ITERA"
+    "judul": "pentas teater mahasiswa ITERA",
+    "kategori": "seni",
+    "Tanggal": "20 oktober 2026",
+    "Lokasi": "aula gedung f institut teknologi sumatera",
+    "Penyelenggara": "mimbar seni mahasiswa ITERA"
   },
   {
     "id": "10",
-    "judul": "Workshop Pemrograman Python",
-    "kategori": "Workshop",
-    "Tanggal": "15 November 2026",
-    "Lokasi": "Laboratorium Komputer ITERA",
-    "Penyelenggara": "Mahasiswa Program Studi Teknik Informatika"
+    "judul": "workshop pemrograman python",
+    "kategori": "workshop",
+    "Tanggal": "15 november 2026",
+    "Lokasi": "laboratorium komputer ITERA",
+    "Penyelenggara": "mahasiswa program studi teknik informatika"
   }
 ]

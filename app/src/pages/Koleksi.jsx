@@ -9,7 +9,6 @@ export default function Koleksi() {
   const { items, loading, error } = useKoleksi()
   const [cari, setCari] = useState('')
   const [kategori, setKategori] = useState('Semua')
-  const [urutkan, setUrutkan] = useState('terbaru')
 
   if (loading) return <p>Memuat data...</p>
   if (error) return <p role="alert">Gagal memuat: {error}</p>
@@ -20,9 +19,6 @@ export default function Koleksi() {
       item.judul.toLowerCase().includes(cari.toLowerCase()) &&
       (kategori === 'Semua' || item.kategori === kategori),
   )
-
-  const urutkanKartu = ['terbaru', 'terlama', 'A-Z', 'Z-A']
-
 
   return (
     <section>
@@ -39,6 +35,7 @@ export default function Koleksi() {
 
       {tampil.length === 0 ? (
         <PesanKosong />
+
       ) : (
         <div className="daftar-kartu">
           {tampil.map((item) => (

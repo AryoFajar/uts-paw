@@ -3,80 +3,80 @@
     "id": "1",
     "judul": "seminar keamanan siber dan etika digital",
     "kategori": "seminar",
-    "Tanggal": "14 oktober 2026",
-    "Lokasi": "aula gedung kuliah umum 1 itera",
-    "Penyelenggara": "komunitas raven"
+    "tanggal": "14 oktober 2026",
+    "lokasi": "aula gedung kuliah umum 1 itera",
+    "penyelenggara": "komunitas raven"
   },
   {
     "id": "2",
-    "judul": "studiium generale: beyond the degree",
-    "kategori": "studiium generale",
-    "Tanggal": "6 oktober 2026",
-    "Lokasi": "aula gedung kuliah umum 1 itera",
-    "Penyelenggara": "program studi teknik informatika itera"
+    "judul": "studium generale: beyond the degree",
+    "kategori": "studium generale",
+    "tanggal": "6 oktober 2026",
+    "lokasi": "aula gedung kuliah umum 1 itera",
+    "penyelenggara": "program studi teknik informatika itera"
   }, 
   {
     "id": "3",
     "judul": "pesta puncak dies natalis itera ke-12",
     "kategori": "dies natalis",
-    "Tanggal": "10 oktober 2026",
-    "Lokasi": "pelataran gedung a institut teknologi sumatera",
-    "Penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
+    "tanggal": "10 oktober 2026",
+    "lokasi": "pelataran gedung a institut teknologi sumatera",
+    "penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
   },
   {
     "id": "4",
     "judul": "dies natalis tera esports ke-2",
     "kategori": "dies natalis",
-    "Tanggal": "29 november 2025",
-    "Lokasi": "aula gedung f institut teknologi sumatera",
-    "Penyelenggara": "tera esports"
+    "tanggal": "29 november 2025",
+    "lokasi": "aula gedung f institut teknologi sumatera",
+    "penyelenggara": "tera esports"
   },
   {
     "id": "5",
     "judul": "parade riuh wisuda terpusat 2026",
     "kategori": "parade",
-    "Tanggal": "25 juli 2026",
-    "Lokasi": "institut teknologi sumatera",
-    "Penyelenggara": "massa laskar hijau"
+    "tanggal": "25 juli 2026",
+    "lokasi": "institut teknologi sumatera",
+    "penyelenggara": "massa laskar hijau"
   },
   {
     "id": "6",
     "judul": "sidang terbuka institut teknologi sumatera",
     "kategori": "sidang terbuka",
-    "Tanggal": "25 april 2026",
-    "Lokasi": "pelataran laboratorium ozt itera",
-    "Penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
+    "tanggal": "25 april 2026",
+    "lokasi": "pelataran laboratorium ozt itera",
+    "penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
   },
   {
     "id": "7",
     "judul": "festival hut ri ke-79",
     "kategori": "festival",
-    "Tanggal": "16 agustus 2026",
-    "Lokasi": "di area embung c",
-    "Penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
+    "tanggal": "16 agustus 2026",
+    "lokasi": "di area embung c",
+    "penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
   },
   {
     "id": "8",
     "judul": "aksi bersih lingkungan kampus ITERA",
     "kategori": "aksi sosial",
-    "Tanggal": "10 september 2026",
-    "Lokasi": "kampus ITERA",
-    "Penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
+    "tanggal": "10 september 2026",
+    "lokasi": "kampus ITERA",
+    "penyelenggara": "seluruh civitas akademika Institut Teknologi Sumatera"
   },
   {
     "id": "9",
     "judul": "pentas teater mahasiswa ITERA",
     "kategori": "seni",
-    "Tanggal": "20 oktober 2026",
-    "Lokasi": "aula gedung f institut teknologi sumatera",
-    "Penyelenggara": "mimbar seni mahasiswa ITERA"
+    "tanggal": "20 oktober 2026",
+    "lokasi": "aula gedung f institut teknologi sumatera",
+    "penyelenggara": "mimbar seni mahasiswa ITERA"
   },
   {
     "id": "10",
     "judul": "workshop pemrograman python",
     "kategori": "workshop",
-    "Tanggal": "15 november 2026",
-    "Lokasi": "laboratorium komputer ITERA",
-    "Penyelenggara": "mahasiswa program studi teknik informatika"
+    "tanggal": "15 november 2026",
+    "lokasi": "laboratorium komputer ITERA",
+    "penyelenggara": "mahasiswa program studi teknik informatika"
   }
 ]

@@ -1,5 +1,5 @@
 export default function PesanKosong({  
-    pesan = "Tidak ada agenda yang tersedia, silahkan coba masukan kategori yang berbeda.",
+    pesan = "Tidak ada agenda yang ditemukan, coba tambahkan kategori lain atau ubah kata kunci pencarian.",
 
 }) {
     return (

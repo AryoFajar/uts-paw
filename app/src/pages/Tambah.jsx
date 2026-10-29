@@ -25,7 +25,7 @@ export default function Tambah() {
 
   return (
     <form className="formulir" onSubmit={simpan} noValidate>
-      <h1>Tambah Tugas</h1>
+      <h1>Tambah Acara</h1>
 
       <label htmlFor="judul">Judul</label>
       <input id="judul" name="judul" value={form.judul} onChange={ubah} />
@@ -33,12 +33,15 @@ export default function Tambah() {
 
       <label htmlFor="kategori">Kategori</label>
       <select id="kategori" name="kategori" value={form.kategori} onChange={ubah}>
-        <option>seminar</option>
-        <option>aksi sosial</option>
-        <option>dies natalis</option>
-        <option>parade</option>
-        <option>sidang</option>
+        <optgroup label="Pilih kategori">
+          <option>seminar</option>
+          <option>aksi sosial</option>
+          <option>dies natalis</option>
+          <option>parade</option>
+          <option>sidang</option>
+        </optgroup>
       </select>
+      
 
       <label htmlFor="tanggal">Tanggal</label>
       <input id="tanggal" name="tanggal" type="date" value={form.tanggal} onChange={ubah} />
@@ -48,9 +51,11 @@ export default function Tambah() {
 
       <label htmlFor="lokasi">Lokasi</label>
       <select id="lokasi" name="lokasi" value={form.lokasi} onChange={ubah}>
-        <option>Gedung Kuliah Umum 1 ITERA</option>
-        <option>Gedung Kuliah Umum 2 ITERA</option>
-        <option>Gedung F ITERA</option>
+        <optgroup label="Pilih lokasi">
+          <option>Gedung Kuliah Umum 1 ITERA</option>
+          <option>Gedung Kuliah Umum 2 ITERA</option>
+          <option>Gedung F ITERA</option>
+        </optgroup>
       </select>
 
       <button type="submit">Simpan</button>

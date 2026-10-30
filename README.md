@@ -42,7 +42,7 @@
 <p align="center" >Gambar 6. Halaman Tentang</p>
 
 ![Tangkapan layar 404](docs/404.png)
-<p align="center" >Gambar 6. Halaman Menampilkan 404</p>
+<p align="center" >Gambar 7. Halaman Menampilkan 404</p>
 
 ---
 
@@ -64,10 +64,12 @@
 
 ## Menjalankan secara lokal
 
+```
 bash
 cd app
 npm install
 npm run dev
+```
 
 ---
 

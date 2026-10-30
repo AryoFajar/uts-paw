@@ -78,5 +78,6 @@ npm run dev
 - State Management (useState): Mengelola state lokal pada form input, validasi, dan filter pencarian.
 - React Context (useContext & Custom Hook useKoleksi): Mengelola data koleksi agenda kegiatan secara global di seluruh halaman.
 - React Router (react-router-dom): Navigasi multi-page (SPA) menggunakan useNavigate, useParams, dan <Link>.
+- Testing dengan Vitest dan Testing Library.
 
 ---

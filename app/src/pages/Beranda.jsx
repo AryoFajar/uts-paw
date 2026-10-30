@@ -8,7 +8,8 @@ export default function Beranda() {
 
   return (
     <section>
-      <h1>Halo Saya Menyediakan Informasi Agenda Kegiatan Kampus Institut Teknologi Sumatera</h1>
+      <h1>Ada Apa di ITERA Minggu Ini?</h1>
+      <p>Cek jadwal kegiatan kampus dan ikuti acara yang kamu minati</p>
       <p>Tema: {mahasiswa.tema}</p>
       {loading ? (
         <p>Memuat ringkasan...</p>

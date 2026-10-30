@@ -11,6 +11,15 @@
   padding: 1rem 1.5rem;
 }
 
+.kepala {
+  background: linear-gradient(180deg, #c52226, #7B2D16);
+  color: white;
+}
+
+.kepala a {
+  color: white;
+}
+
 .menu {
   display: flex;
   gap: 1rem;
